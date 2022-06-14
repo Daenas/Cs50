@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because when comparing the three algorithms with sorted50000, sort1 and sort2 were very similar. But once we know merge2 is mergesort, bubblesort is the only one that has a omega of n.
+
+sort2 uses: Merge sort
+
+How do you know?: By sorting the random50000 using the three algorithms, it's obvious that the sort2 algorithm performs way better than the other one's therefore it's mergesort.
+
+sort3 uses: Selection sort
+
+How do you know?: Only one left.
